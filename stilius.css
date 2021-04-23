@@ -1,0 +1,18 @@
+body {
+    background-color: #EAEBED;
+}
+img {
+    margin-left: 12.5%; 
+    margin-right: 2%; 
+    width: 30%; 
+    float:left;
+}
+
+a {
+    text-transform: uppercase; 
+    color:white; 
+    display: inline-block;  
+    background-color: #686E88; 
+    padding: 10px; 
+    text-decoration: none;
+}
